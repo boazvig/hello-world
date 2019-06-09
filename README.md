@@ -1,3 +1,6 @@
 # hello-world
 a first git repository
-a new text for checking commit and merge
+
+
+# a simple change of file to commit, push fto branch and pull from master
+

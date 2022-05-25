@@ -2,5 +2,5 @@
 a first git repository
 
 
-# a simple change of file to commit, push fto branch and pull from master
+# a simple change of file to commit, push to branch and pull from master
 
